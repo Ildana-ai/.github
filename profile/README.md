@@ -8,6 +8,8 @@ Small, local-first tools. Free, open source. Your data stays on your machine.
   schedules as a calendar feed, with reminders → [ildana.ai/actual2ics](https://ildana.ai/actual2ics/)
 - **[paperless-export](https://github.com/Ildana-ai/paperless-export)** — a paperless-ngx
   document list as a CSV or XLSX sheet, custom fields included, row count checked → [ildana.ai/paperless-export](https://ildana.ai/paperless-export/)
+- **[receipt2actual](https://github.com/Ildana-ai/receipt2actual)** — pair receipt files to
+  your Actual Budget transactions, one click from the note to the file, every pairing verifiable → [ildana.ai/receipt2actual](https://ildana.ai/receipt2actual/)
 
 More in the forge: [ildana.ai/forge](https://ildana.ai/forge/)
 
