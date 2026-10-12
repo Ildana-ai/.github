@@ -19,11 +19,8 @@ your machine.
 
 ## In the pipeline, being considered
 
-Needs we found in the open, with the numbers behind them. We build what people vote for.
+Needs we found in the open, with the numbers behind them.
 
-- **[vault-dedupe](https://github.com/Ildana-ai/vault-dedupe)** — find and merge duplicates in a
-  Bitwarden vault export, offline, original untouched. **Open for votes now:**
-  [pick the flavor you'd use](https://github.com/Ildana-ai/vault-dedupe/issues/1)
 - ESPHome — turn an ESP32 into a Bluetooth audio sender
 - Home Assistant — HomePod mini temperature and humidity as sensors
 - NocoDB — copy a base between installs
